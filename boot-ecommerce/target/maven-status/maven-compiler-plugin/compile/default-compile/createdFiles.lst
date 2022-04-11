@@ -1,0 +1,7 @@
+com\javainuse\model\User.class
+com\javainuse\EcommerceApplication.class
+com\javainuse\model\Book.class
+com\javainuse\controller\BookController.class
+com\javainuse\controller\UserController.class
+com\javainuse\db\BookRepository.class
+com\javainuse\db\UserRepository.class
